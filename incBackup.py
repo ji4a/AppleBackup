@@ -9,10 +9,10 @@ def count_files(directory):
         count += len(files)
     return count
 
-// CHANGE DIRECTORY PATH
+# CHANGE DIRECTORY PATH
 source_directory = 'ABSOLUTE_PATH_HERE'
 
-// CHANGE FTP CREDENTIALS
+# CHANGE FTP CREDENTIALS
 ftp_host = ''
 ftp_username = ''
 ftp_password = ''
